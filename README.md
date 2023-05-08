@@ -244,7 +244,7 @@ DELIMITER ;<br>
 call sample4(1, 'A0001', @u_count, @d_count);<br>
 SELECT @u_count, @d_count;<br>
 
-#### <----- データの取得 -----><br>
+# データの取得
 ■SELECT 文<br>
 ※データを取得する<br>
 SELECT * FROM nest.user;<br>
