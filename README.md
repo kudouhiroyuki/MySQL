@@ -271,7 +271,7 @@ SELECT * FROM nest.user WHERE id = 1 AND department_id = 'A0001';<br>
 ■GROUP BY 句<br>
 ※データをグループ化する<br>
 SELECT department_id FROM nest.user GROUP BY department_id;<br>
-SELECT department_id FROM nest.user GROUP BY department_id, id;<br>
+SELECT id, department_id FROM nest.user GROUP BY id, department_id;<br>
 
 ■ORDER BY 句<br>
 ※取得するデータをソートする<br>
