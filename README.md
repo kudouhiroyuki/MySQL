@@ -1,6 +1,8 @@
 ## MySQL<br>
 ![Screen-Shot-2019-08-04-at-16 22 27](https://user-images.githubusercontent.com/32052493/236705258-8c5699a5-8f28-4cc7-aad5-157421f06984.png)
 
+![archive_50-01](https://github.com/kudouhiroyuki/MySQL/assets/32052493/a5c7df1b-074e-4ea4-996c-2a66ff37b0b6)
+
 #### MySQLコマンドラインツールの利用<br>
 - 接続<br>
 mysql -u root -p;
