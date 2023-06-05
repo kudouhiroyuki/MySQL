@@ -3,6 +3,8 @@
 
 ![archive_50-01](https://github.com/kudouhiroyuki/MySQL/assets/32052493/a5c7df1b-074e-4ea4-996c-2a66ff37b0b6)
 
+![63a16ab5608d1571f2470a16f91bb1e2](https://github.com/kudouhiroyuki/MySQL/assets/32052493/b9d70e69-34e8-417c-853d-369c6bbeeb3d)
+
 ■一対一リレーション<br>
 双方のレコードが一対一に対応する<br>
 双方の主キーが同じ<br>
