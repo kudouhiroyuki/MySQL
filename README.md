@@ -6,6 +6,7 @@
 ■一対一リレーション<br>
 双方のレコードが一対一に対応する<br>
 双方の主キーが同じ<br>
+<img width="512" alt="20160731193333" src="https://github.com/kudouhiroyuki/MySQL/assets/32052493/8f40f2f0-214c-49e5-a05f-2581bc07eaca">
 
 #### MySQLコマンドラインツールの利用<br>
 - 接続<br>
