@@ -8,6 +8,10 @@
 双方の主キーが同じ<br>
 <img width="512" alt="20160731193333" src="https://github.com/kudouhiroyuki/MySQL/assets/32052493/8f40f2f0-214c-49e5-a05f-2581bc07eaca">
 
+■一対多リレーション<br>
+A のレコードは B の複数のレコードと関連する可能性があるが、B のレコードは A のレコードと最大一件のみ関連する<br>
+<img width="512" alt="20160731214014" src="https://github.com/kudouhiroyuki/MySQL/assets/32052493/9bcd6481-3042-4f41-826d-1fc9f869d38e">
+
 #### MySQLコマンドラインツールの利用<br>
 - 接続<br>
 mysql -u root -p;
